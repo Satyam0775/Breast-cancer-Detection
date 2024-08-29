@@ -14,7 +14,7 @@ Handling Missing Values
 Feature Scaling of Data
 Building a Predictive Model
 Optimizing the Model
-Notebook 1: Identifying the Problem and Data Sources
+##  ### [Notebook 1](https://github.com/Satyam0775/Breast-cancer-Detection-prediction/blob/master/master/NB1_IdentifyProblem%2BDataClean.ipynb)
 Goal: Identify the types of information contained in the dataset.
 
 In this notebook, I use Python modules to import external datasets to familiarize myself with the data, gaining a solid understanding of its structure and contents, and exploring potential methods for data handling.
