@@ -14,10 +14,8 @@ Handling Missing Values
 Feature Scaling of Data
 Building a Predictive Model
 Optimizing the Model
-##  ### [Notebook 1](https://github.com/Satyam0775/Breast-cancer-Detection-prediction/blob/master/master/NB1_IdentifyProblem%2BDataClean.ipynb)
-Goal: Identify the types of information contained in the dataset.
-
-In this notebook, I use Python modules to import external datasets to familiarize myself with the data, gaining a solid understanding of its structure and contents, and exploring potential methods for data handling.
+## [Notebook 1](https://github.com/Satyam0775/Breast-cancer-Detection-prediction/blob/master/master/NB1_IdentifyProblem%2BDataClean.ipynb) : Identify the types of information contained in the dataset.
+In this notebook, I use Python modules to import external datasets, familiarize myself with the data, and consider various approaches to handling it.
 
 Notebook 2: Handling Missing Values
 Goal: Explore the variables to assess their relationship with the response variable.
